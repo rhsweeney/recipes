@@ -27,4 +27,7 @@ Testing
 I'm testing adding a change locally to this file while on the TestingBranchPushPull 
 branch
 
-I [local]added this line while in the TestingBranchPushPull from GitHub
+
+I [local]added this line while in the TestingBranchPushPull from GitHub[Remote]
+I added both [local] and [Remote] to resolve the merge conflict
+

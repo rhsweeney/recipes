@@ -27,4 +27,4 @@ Testing
 I'm testing adding a change locally to this file while on the TestingBranchPushPull 
 branch
 
-I added this line while in the TestingBranchPushPull from GitHub
+I added this line while in the TestingBranchPushPull from GitHub[Remote]
